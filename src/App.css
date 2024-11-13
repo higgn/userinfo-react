@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+div {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+div div {
+  text-align: left;
+}
